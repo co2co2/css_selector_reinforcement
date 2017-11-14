@@ -1,0 +1,14 @@
+p {
+    color: red;
+}
+a:hover {
+    background-color: yellow;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+body>ul>li {
+ display: inline-block;
+ }
